@@ -1,6 +1,6 @@
 {
   "name": "@umijs/valtio",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
   "keywords": [],
   "homepage": "https://github.com/umijs/umi/tree/master/libs/valtio",
@@ -22,7 +22,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "valtio": "1.8.2"
+    "valtio": "1.9.0"
   },
   "packageManager": "pnpm@7.3.0",
   "publishConfig": {
